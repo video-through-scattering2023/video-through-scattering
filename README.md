@@ -47,10 +47,11 @@ cd video-through-scattering
 From the [link](https://drive.google.com/drive/folders/1-Zu7GL2dooGFJYEO34s9U0J03LKqd6I6?usp=sharing), download the checkpoints and paste it to ./models/, download the samples and paste it to ./scatter samples/
 ```
 mkdir models
-mv {DOWNLOAD_DIR}/{CHECKPOINT NAME} ./{PASTE_DIR}/
+mkdir scatter samples
+mv {MODEL_DOWNLOAD_DIR}/{CHECKPOINT NAME} ./{models}/
+mv {SAMPLE_DOWNLOAD_DIR}/{SAMPLES} ./{scatter samples}/
 ```
 {DOWNLOAD_DIR} is the directory that you downloaded checkpoint to.
-
 {PASTE_DIR} is the directory that you should paste to.
 
 <br />
