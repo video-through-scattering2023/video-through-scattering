@@ -33,12 +33,14 @@ cd video-through-scattering
 
 ### 2) Download pretrained checkpoint and sample videos
 From the [link](https://drive.google.com/drive/folders/1-Zu7GL2dooGFJYEO34s9U0J03LKqd6I6?usp=sharing), download the checkpoints and paste it to ./models/
+
 From the [link](https://drive.google.com/drive/folders/1-Zu7GL2dooGFJYEO34s9U0J03LKqd6I6?usp=sharing), download the samples and paste it to ./scatter samples/
 ```
 mkdir models
 mv {DOWNLOAD_DIR}/{CHECKPOINT NAME} ./{PASTE_DIR}/
 ```
 {DOWNLOAD_DIR} is the directory that you downloaded checkpoint to.
+
 {PASTE_DIR} is the directory that you should paste to.
 
 <br />
