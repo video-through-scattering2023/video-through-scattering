@@ -57,14 +57,16 @@ mv {SAMPLE_DOWNLOAD_DIR}/{SAMPLES} ./{scatter samples}/
 <br />
 
 ### 3) Set environment
-### Local environment setting
 Install dependencies
 
-We provide an [`environment.yml`](environment.yml) file that can be used to create a Conda environment.
+```
+conda create -n VTS python=3.10
 
-```bash
-conda env create -f environment.yml
 conda activate VTS
+
+pip install -r requirements.txt
+
+pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
 ```
 
 <br />
