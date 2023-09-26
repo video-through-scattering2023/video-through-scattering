@@ -13,7 +13,7 @@ to video recovery, especially through highly scattering media, has been an open 
 and the difficulty in exploiting the prior knowledge of the spatio-temporal correlation.
 Here we propose using temporal correlations between time-sequential frames in solving the inverse scattering problem. With the video diffusion model fused with a physical formulation of the shower-curtain effect, the statistical correlation between a series of frames and a series of scattered signals is maximally exploited in a spatiotemporal domain. Unlike previous end-to-end approaches only relied on spatial correlation between a scene and a scattered signal at a specific time point, the adaptability of the proposed method is highly extendable to various types of scenes, various thicknesses of scattering media, and varying distances between a target scene and a medium. The use of temporal correlation is shown to be critical to faithfully retrieve high-frequency components which are often missed by inverse operations only in spatial domain. We test the usability of the proposed approach with the video datasets of moving sperm cells. To the best of our knowledge, this is the first attempt to jointly utilize the correlations in both spatial and temporal domains in solving the inverse scattering problem.
 
-<img align="center" width="50%" src="./figures/cover.jpg">
+<img align="center" width="67%" src="./figures/cover.jpg">
 
 ## Prerequisites
 - python 3.10
