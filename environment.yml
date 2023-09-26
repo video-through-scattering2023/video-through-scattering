@@ -1,4 +1,4 @@
-name: DiT
+name: VTS
 channels:
   - pytorch
   - nvidia
