@@ -54,3 +54,25 @@ mv {DOWNLOAD_DIR}/{CHECKPOINT NAME} ./{PASTE_DIR}/
 {PASTE_DIR} is the directory that you should paste to.
 
 <br />
+
+### 3) Set environment
+### Local environment setting
+Install dependencies
+
+We provide an [`environment.yml`](environment.yml) file that can be used to create a Conda environment.
+
+```bash
+conda env create -f environment.yml
+conda activate VTS
+```
+
+<br />
+
+### 4) Test
+
+```
+python test_UCF.py
+python test_VISEM.py
+```
+
+<br />
