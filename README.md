@@ -3,8 +3,8 @@
 <p align="center" width="100%">
     <img width="10%" src="./figures/UCF_measurement.gif">
     <img width="10%" src="./figures/UCF_output.gif">
-    <img width="10%" src="./figures/VISEM_measurement.gif">
-    <img width="10%" src="./figures/VISEM_output.gif">
+    <img width="20%" src="./figures/VISEM_measurement.gif">
+    <img width="20%" src="./figures/VISEM_output.gif">
 </p>
 
 ## Abstract
