@@ -2,6 +2,8 @@
 
 ![result-gif1](./figures/UCF_measurement.gif)
 ![result-git2](./figures/UCF_output.gif)
+![result-gif3](./figures/VISEM_measurement.gif)
+![result-git4](./figures/VISEM_output.gif)
 
 ## Abstract
 Optical scattering causes light rays to deviate from their trajectory, posing challenges for imaging through scattering media such as fog and biological tissues. Although diffusion based inverse solvers have been extensively developed for static imaging problems, its extension
