@@ -1,7 +1,8 @@
 # See Video Through Optical Scattering Media Using Spatio-temporal Diffusion Models
 
-
-<img align="center" width="67%" src="./figures/cover.jpg">
+<p align="center" width="100%">
+    <img width="67%" src="./figures/cover.jpg">
+</p>
 
 <p align="center" width="100%">
     <img width="10%" src="./figures/UCF_measurement.gif">
