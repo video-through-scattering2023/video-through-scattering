@@ -21,9 +21,9 @@ Here we propose using temporal correlations between time-sequential frames in so
 ## Prerequisites
 - python 3.10
 
-- pytorch 1.13.0
+- pytorch 1.13.1
 
-- CUDA 11.7.1
+- CUDA 11.7
 
 It is okay to use lower version of CUDA with proper pytorch version.
 
