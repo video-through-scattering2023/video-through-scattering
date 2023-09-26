@@ -1,15 +1,16 @@
 # See Video Through Optical Scattering Media Using Spatio-temporal Diffusion Models
 
 <p align="center" width="100%">
-    <img width="67%" src="./figures/cover.jpg">
-</p>
-
-<p align="center" width="100%">
     <img width="10%" src="./figures/UCF_measurement.gif">
     <img width="10%" src="./figures/UCF_output.gif">
     <img width="20%" src="./figures/VISEM_measurement.gif">
     <img width="20%" src="./figures/VISEM_output.gif">
 </p>
+
+<p align="center" width="100%">
+    <img width="67%" src="./figures/cover.jpg">
+</p>
+
 
 ## Abstract
 Optical scattering causes light rays to deviate from their trajectory, posing challenges for imaging through scattering media such as fog and biological tissues. Although diffusion based inverse solvers have been extensively developed for static imaging problems, its extension
